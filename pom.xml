@@ -12,7 +12,7 @@
 	<properties>
 		<maven.compiler.version>2.3.2</maven.compiler.version>
 		<selenium.version>2.42.2</selenium.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<cucumber.version>1.1.7</cucumber.version>
 	</properties>
 
